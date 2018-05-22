@@ -18,6 +18,7 @@ Hosting node.js applications in IIS on Windows
 - [discountasp.net](http://discountasp.net/press/2012_06_12_free-webmatrix-v2-rc-hosting-with-nodejs.aspx)
 - [arvixe.com](http://arvixe.com)
 - [smarterasp.net](http://www.smarterasp.net/)
+- [host4asp.net](https://host4asp.net/)
 - [gearhost.com](http://gearhost.com/)
 - [webecs.com](http://webecs.com/)
 
